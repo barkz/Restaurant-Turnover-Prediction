@@ -1,5 +1,7 @@
 # Restaurant Turnover Project
 
+## Hackathon
+
 Predict the Annual Turnover of a restaurant based on the variables provided in the data set.
 
 ## Project Overview
